@@ -1,6 +1,6 @@
 # 🔐 JwtBearer Authentication (.NET)
 
-Este projeto demonstra como configurar autenticação baseada em **JWT (JSON Web Token)** usando o middleware `JwtBearer` no **.NET
+Este projeto demonstra como configurar autenticação baseada em **JWT (JSON Web Token)** usando o middleware `JwtBearer` no **.NET**
 
 ## 📦 Tecnologias Utilizadas
 
